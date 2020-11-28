@@ -1,4 +1,4 @@
-The Challenge:
+The challenge:
 
 Use ReactJS to build a simple web app that displays passengers and bus stops on a map.
 
